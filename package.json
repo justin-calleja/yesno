@@ -1,0 +1,23 @@
+{
+  "name": "@justinc/yesno",
+  "version": "1.0.0",
+  "description": "Inquirer.js wrapper for asking a (confirm by default) question",
+  "main": "src/index.js",
+  "scripts": {
+    "postversion": "git push origin master && git push --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-calleja/yesno.git"
+  },
+  "author": "Justin Calleja <calleja.justin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-calleja/yesno/issues"
+  },
+  "homepage": "https://github.com/justin-calleja/yesno#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2"
+  }
+}
