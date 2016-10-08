@@ -24,6 +24,6 @@ require('@justinc/yesno')({ message: 'Do you want to do X?' }).then(answer => {
 
 - **type**: See `type` [here](https://github.com/SBoudrias/Inquirer.js/blob/master/README.md#question). (default: `'confirm'`)
 - **name**: See `name` [here](https://github.com/SBoudrias/Inquirer.js/blob/master/README.md#question). (default: `'yes'`)
-- **message**: See `message` [here](https://github.com/SBoudrias/Inquirer.js/blob/master/README.md#question). (default: `'Are you sure?`)
+- **message**: See `message` [here](https://github.com/SBoudrias/Inquirer.js/blob/master/README.md#question). (default: `'Are you sure?'`)
 - **default**: See `default` [here](https://github.com/SBoudrias/Inquirer.js/blob/master/README.md#question). (default: `true`)
 
